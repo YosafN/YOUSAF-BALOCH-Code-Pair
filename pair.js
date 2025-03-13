@@ -85,7 +85,7 @@ var randomItem = selectRandomItem(items);
 
 > Join WhatsApp Channel :- ⤵️
  
-https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O
+https://whatsapp.com/channel/0029Vb3Uzps6buMH2RvGef0j
 
 Dont forget to fork the repo ⬇️
 
@@ -96,8 +96,8 @@ https://github.com/YosafN/YOUSAF-BALOCH-MD
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "YOUSAF𝐒𝐨𝐛𝐱𝐌𝐝",
-thumbnailUrl: "https://files.catbox.moe/vohllr",
+title: "YOUSAF BALOCH",
+thumbnailUrl: "https://i.ibb.co/6cMH70Xw/shaban-md.jpg",
 sourceUrl: "https://www.youtube.com/@SocialMediaReaction110",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -113,7 +113,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "YOUSAF BALOCH MD",
-thumbnailUrl: "https://files.catbox.moe/2byp4i",
+thumbnailUrl: "https://i.ibb.co/4ZmmKrR8/shaban-md.jpg",
 sourceUrl: "https://www.youtube.com/@SocialMediaReaction110",
 mediaType: 2,
 renderLargerThumbnail: true,
